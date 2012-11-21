@@ -1,0 +1,24 @@
+{
+  "name": "nodeconf.kr-2012",
+  "version": "1.0.0",
+  "description": "nodeconf.kr presentation live coding example",
+  "main": "utils.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "filed": "~0.0.7",
+    "winston": "~0.6.2",
+    "byline": "~2.0.3",
+    "JSONStream": "~0.4.2",
+    "request": "~2.11.4",
+    "oppressor": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "nanhapark",
+  "license": "MIT"
+}

@@ -1,0 +1,18 @@
+2012-11-21T01:41:55.465Z - crit: SyntaxError: Unexpected token .
+    at Object.parse (native)
+    at Server.<anonymous> (/home/play/NodeconfExample/0.logging/5.coffee:22:10)
+    at Server.Domain.bind.b (domain.js:201:18)
+    at Server.EventEmitter.emit (events.js:96:17)
+    at HTTPParser.parser.onIncoming (http.js:1807:12)
+    at HTTPParser.parserOnHeadersComplete [as onHeadersComplete] (http.js:111:23)
+    at Socket.socket.ondata (http.js:1704:22)
+    at TCP.onread (net.js:403:27)
+2012-11-21T01:42:41.718Z - crit: SyntaxError: Unexpected token .
+    at Object.parse (native)
+    at Server.<anonymous> (/home/play/NodeconfExample/0.logging/5.coffee:22:10)
+    at Server.Domain.bind.b (domain.js:201:18)
+    at Server.EventEmitter.emit (events.js:96:17)
+    at HTTPParser.parser.onIncoming (http.js:1807:12)
+    at HTTPParser.parserOnHeadersComplete [as onHeadersComplete] (http.js:111:23)
+    at Socket.socket.ondata (http.js:1704:22)
+    at TCP.onread (net.js:403:27)
